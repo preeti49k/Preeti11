@@ -1,0 +1,29 @@
+body{
+	background: #76b852;
+}
+form{
+ position: relative;
+ width: 70%;
+ text-align:relative;
+ font-size:20px;
+}
+
+label{
+ width: relative;
+ position:relative;
+ left: 50%;
+ text-align: right;
+ margin-right: 30px;
+}
+
+input[type=submit] {
+ position:realtive;
+ width:200px;
+ left:50%;
+ background-color: #9AE5F8;
+}
+td
+{
+	text-align:left;
+	padding:5px;
+}
